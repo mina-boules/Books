@@ -1119,6 +1119,8 @@ transform: scale(1.1,1.1);
 }
 @media screen and (max-width: 377px)
 div.gallery {
-    width: 100%;
+	width: 100%;}
+mu-author-image img{
+width:100%;}
 }
 
