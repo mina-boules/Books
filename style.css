@@ -1117,7 +1117,7 @@ transform: rotateY(360deg);
 .mu-hero-right img:hover{
 transform: scale(1.1,1.1);
 }
-@media screen and (max-width: 377px)
+@media screen and (max-width: 377px){
 div.gallery {
 	width: 100%;}
 mu-author-image img{
